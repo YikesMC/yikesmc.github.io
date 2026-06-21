@@ -822,11 +822,11 @@
         }
         var o = r(576),
             a = {
-                color: "orange",
-                radius: [.6, 5],
-                speed: [1, 3],
-                wind: [-1.5, 4]
-            },
+        color: "orange",
+        radius: [.3, 2],
+        speed: [.5, 1.5],
+        wind: [-1, 1]
+        },
             c = function(t) {
                 var r = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : null,
                     e = arguments.length > 2 ? arguments[2] : void 0,
